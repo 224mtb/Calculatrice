@@ -1,4 +1,4 @@
-let inputId = document.getElementById('ecran');
+var inputId = document.getElementById('ecran');
 
 function maFonction(id) {
 	id.addEventListener('click',function() {
